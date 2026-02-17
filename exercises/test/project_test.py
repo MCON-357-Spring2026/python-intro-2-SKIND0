@@ -1,6 +1,6 @@
 import pytest
 import os
-from project import *
+from exercises.src.project import *
 
 
 class TestHelperFunctions:
